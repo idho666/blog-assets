@@ -1,58 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang='en' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
   <head>
-    <meta charset="utf-8" />
-    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta charset='utf-8'/>
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'/>
     <title>
       Idhodev - Solusi Perangkat Lunak dan Layanan Digital Inovatif untuk Bisnis
       Anda
     </title>
-    <meta
-      property="og:title"
-      content="Idhodev - Solusi Perangkat Lunak dan Layanan Digital Inovatif"
-    />
-    <meta
-      property="og:description"
-      content="Idhodev menyediakan solusi perangkat lunak dan layanan digital terbaik untuk membantu bisnis Anda berkembang melalui teknologi cerdas."
-    />
-    <meta property="og:image" content="URL_to_image.jpg" />
-    <meta property="og:url" content="https://idhodev.com" />
-    <meta property="og:type" content="website" />
-    <meta
-      name="keywords"
-      content="solusi perangkat lunak, layanan digital, pengembangan website, pengembangan aplikasi, solusi bisnis, teknologi inovatif, SEO, pemasaran digital, digital transformation, pembuatan website, pengembangan aplikasi kustom, Idhodev, layanan IT, teknologi cerdas, konsultasi digital, layanan e-commerce, desain website responsif"
-    />
+    <meta content='Idhodev - Solusi Perangkat Lunak dan Layanan Digital Inovatif' property='og:title'/>
+    <meta content='Idhodev menyediakan solusi perangkat lunak dan layanan digital terbaik untuk membantu bisnis Anda berkembang melalui teknologi cerdas.' property='og:description'/>
+    <meta content='URL_to_image.jpg' property='og:image'/>
+    <meta content='https://idhodev.com' property='og:url'/>
+    <meta content='website' property='og:type'/>
+    <meta content='solusi perangkat lunak, layanan digital, pengembangan website, pengembangan aplikasi, solusi bisnis, teknologi inovatif, SEO, pemasaran digital, digital transformation, pembuatan website, pengembangan aplikasi kustom, Idhodev, layanan IT, teknologi cerdas, konsultasi digital, layanan e-commerce, desain website responsif' name='keywords'/>
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon" />
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon" />
+    <link href='https://idho666.github.io/blog-assets/ assets/img/favicon.png' rel='icon'/>
+    <link href='https://idho666.github.io/blog-assets/ assets/img/apple-touch-icon.png' rel='apple-touch-icon'/>
 
     <!-- Fonts -->
-    <link href="https://fonts.googleapis.com" rel="preconnect" />
-    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-      rel="stylesheet"
-    />
+    <link href='https://fonts.googleapis.com' rel='preconnect'/>
+    <link crossorigin='anonymous' href='https://fonts.gstatic.com' rel='preconnect'/>
+<link href='https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100&amp;0,300&amp;0,400&amp;0,500&amp;0,700&amp;0,900&amp;1,100&amp;1,300&amp;1,400&amp;1,500&amp;1,700&amp;1,900&amp;family=Poppins:ital,wght@0,100&amp;0,200&amp;0,300&amp;0,400&amp;0,500&amp;0,600&amp;0,700&amp;0,800&amp;0,900&amp;1,100&amp;1,200&amp;1,300&amp;1,400&amp;1,500&amp;1,600&amp;1,700&amp;1,800&amp;1,900&amp;family=Raleway:ital,wght@0,100&amp;0,200&amp;0,300&amp;0,400&amp;0,500&amp;0,600&amp;0,700&amp;0,800&amp;0,900&amp;1,100&amp;1,200&amp;1,300&amp;1,400&amp;1,500&amp;1,600&amp;1,700&amp;1,800&amp;1,900&amp;display=swap' rel='stylesheet'/>
+
 
     <!-- Vendor CSS Files -->
-    <link
-      href="assets/vendor/bootstrap/css/bootstrap.min.css"
-      rel="stylesheet"
-    />
-    <link
-      href="assets/vendor/bootstrap-icons/bootstrap-icons.css"
-      rel="stylesheet"
-    />
-    <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
-    <link
-      href="assets/vendor/glightbox/css/glightbox.min.css"
-      rel="stylesheet"
-    />
-    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+    <link href='https://idho666.github.io/blog-assets/assets/vendor/bootstrap/css/bootstrap.min.css' rel='stylesheet'/>
+    <link href='https://idho666.github.io/blog-assets/assets/vendor/bootstrap-icons/bootstrap-icons.css' rel='stylesheet'/>
+    <link href='https://idho666.github.io/blog-assets/assets/vendor/aos/aos.css' rel='stylesheet'/>
+    <link href='https://idho666.github.io/blog-assets/assets/vendor/glightbox/css/glightbox.min.css' rel='stylesheet'/>
+    <link href='https://idho666.github.io/blog-assets/assets/vendor/swiper/swiper-bundle.min.css' rel='stylesheet'/>
 
     <!-- Main CSS File -->
-    <link href="assets/css/main.css" rel="stylesheet" />
+    <link href='https://idho666.github.io/blog-assets/assets/css/main.css' rel='stylesheet'/>
 
     <!-- =======================================================
   * Template Name: KnightOne
@@ -61,81 +42,74 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+    
+    <b:skin><![CDATA[
+ 
+  
+]]></b:skin>
   </head>
 
-  <body class="index-page">
-    <header id="header" class="header d-flex align-items-center fixed-top">
-      <div
-        class="container position-relative d-flex align-items-center justify-content-between"
-      >
-        <a
-          href="index.html"
-          class="logo d-flex align-items-center me-auto me-xl-0"
-        >
+  <body class='index-page'>
+    
+      <b:section id='main'/>
+    
+    <header class='header d-flex align-items-center fixed-top' id='header'>
+      <div class='container position-relative d-flex align-items-center justify-content-between'>
+        <a class='logo d-flex align-items-center me-auto me-xl-0' href='index.html'>
           <!-- Uncomment the line below if you also wish to use an image logo -->
-          <!-- <img src="assets/img/logo.png" alt=""> -->
-          <h1 class="sitename">Idhodev.</h1>
+          <!-- <img src="https://idho666.github.io/blog-assets/assets/img/logo.png" alt=""> -->
+          <h1 class='sitename'>Idhodev.</h1>
         </a>
 
-        <nav id="navmenu" class="navmenu">
+        <nav class='navmenu' id='navmenu'>
           <ul>
-            <li><a href="#hero" class="active">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#services">Services</a></li>
+            <li><a class='active' href='#hero'>Home</a></li>
+            <li><a href='#about'>About</a></li>
+            <li><a href='#services'>Services</a></li>
             <!-- <li><a href="#portfolio">Portfolio</a></li> -->
             <!-- <li><a href="#pricing">Pricing</a></li> -->
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href='blog.html'>Blog</a></li>
+            <li><a href='#contact'>Contact</a></li>
           </ul>
-          <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+          <i class='mobile-nav-toggle d-xl-none bi bi-list'/>
         </nav>
 
-        <a
-          class="cta-btn"
-          href="https://api.whatsapp.com/send?phone=6285165565089&text=Halo%20Idhodev%2C%20saya%20tertarik%20dengan%20layanan%20digital%20dan%20pengembangan%20software%20yang%20Anda%20tawarkan.%20Bisakah%20kita%20membahas%20lebih%20lanjut%3F"
-          ><span class="bi bi-whatsapp"> </span> Konsultasi</a
-        >
+     <a class='cta-btn' href='https://api.whatsapp.com/send?phone=6285165565089&amp;text=Halo%20Idhodev%2C%20saya%20tertarik%20dengan%20layanan%20digital%20dan%20pengembangan%20software%20yang%20Anda%20tawarkan.%20Bisakah%20kita%20membahas%20lebih%20lanjut%3F'>
+  <span class='bi bi-whatsapp'> </span> Konsultasi
+</a>
+
       </div>
     </header>
 
-    <main class="main">
+    <main class='main'>
       <!-- Hero Section -->
-      <section id="hero" class="hero section dark-background">
-        <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in" />
+      <section class='hero section dark-background' id='hero'>
+        <img alt='' data-aos='fade-in' src='assets/img/hero-bg.jpg'/>
 
-        <div
-          class="container d-flex flex-column align-items-center text-center"
-        >
-          <h2 data-aos="fade-up" data-aos-delay="100">Welcome to Idhodev.</h2>
-          <p data-aos="fade-up" data-aos-delay="200">
+        <div class='container d-flex flex-column align-items-center text-center'>
+          <h2 data-aos='fade-up' data-aos-delay='100'>Welcome to Idhodev.</h2>
+          <p data-aos='fade-up' data-aos-delay='200'>
             Pengembang perangkat lunak inovatif dengan tim ahli yang siap
             memberikan solusi terbaik untuk bisnis Anda.
           </p>
-          <div data-aos="fade-up" data-aos-delay="300">
-            <a
-              href="https://www.youtube.com/watch?v=Y7f98aduVJ8"
-              class="glightbox pulsating-play-btn"
-            ></a>
+          <div data-aos='fade-up' data-aos-delay='300'>
+            <a class='glightbox pulsating-play-btn' href='https://www.youtube.com/watch?v=Y7f98aduVJ8'/>
           </div>
         </div>
       </section>
       <!-- /Hero Section -->
 
       <!-- About Section -->
-      <section id="about" class="about section">
+      <section class='about section' id='about'>
         <!-- Section Title -->
-        <div class="container section-title" data-aos="fade-up">
+        <div class='container section-title' data-aos='fade-up'>
           <h2>About</h2>
         </div>
         <!-- End Section Title -->
 
-        <div class="container">
-          <div class="row gy-4">
-            <div
-              class="col-lg-6 content"
-              data-aos="fade-up"
-              data-aos-delay="100"
-            >
+        <div class='container'>
+          <div class='row gy-4'>
+            <div class='col-lg-6 content' data-aos='fade-up' data-aos-delay='100'>
               <p>
                 Kami ahli dalam transformasi digital dan pengembangan perangkat
                 lunak, menghadirkan solusi inovatif yang dirancang untuk
@@ -147,25 +121,25 @@
               </p>
               <ul>
                 <li>
-                  <i class="bi bi-check2-circle"></i>
+                  <i class='bi bi-check2-circle'/>
                   <span>Tim Ahli dan Berpengalaman</span>
                 </li>
                 <li>
-                  <i class="bi bi-check2-circle"></i>
+                  <i class='bi bi-check2-circle'/>
                   <span>Pendekatan Profesional</span>
                 </li>
                 <li>
-                  <i class="bi bi-check2-circle"></i>
+                  <i class='bi bi-check2-circle'/>
                   <span>Solusi Tepat Sasaran</span>
                 </li>
                 <li>
-                  <i class="bi bi-check2-circle"></i>
+                  <i class='bi bi-check2-circle'/>
                   <span>Kualitas Terjamin</span>
                 </li>
               </ul>
             </div>
 
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+            <div class='col-lg-6' data-aos='fade-up' data-aos-delay='200'>
               <p>
                 Digitalisasi sangat penting untuk meningkatkan efisiensi,
                 mengurangi biaya, dan mempercepat proses bisnis. Dengan
@@ -173,9 +147,7 @@
                 meningkatkan layanan pelanggan, dan berinovasi lebih cepat, yang
                 membantu mereka tetap kompetitif di pasar yang terus berkembang.
               </p>
-              <a href="#" class="read-more"
-                ><span>Read More</span><i class="bi bi-arrow-right"></i
-              ></a>
+              <a class='read-more' href='#'><span>Read More</span><i class='bi bi-arrow-right'/></a>
             </div>
           </div>
         </div>
@@ -183,12 +155,12 @@
       <!-- /About Section -->
 
       <!-- Services Section -->
-      <section id="services" class="services section">
+      <section class='services section' id='services'>
         <!-- Section Title -->
-        <div class="container section-title" data-aos="fade-up">
+        <div class='container section-title' data-aos='fade-up'>
           <h2>Services</h2>
-          <div class="row">
-            <div class="col-8">
+          <div class='row'>
+            <div class='col-8'>
               <p>
                 kami menyediakan berbagai layanan digital dan solusi
                 pengembangan perangkat lunak yang dirancang untuk memberdayakan
@@ -199,18 +171,14 @@
         </div>
         <!-- End Section Title -->
 
-        <div class="container">
-          <div class="row gy-4">
-            <div
-              class="col-lg-4 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="100"
-            >
-              <div class="service-item position-relative">
-                <div class="icon">
-                  <i class="bi bi-activity"></i>
+        <div class='container'>
+          <div class='row gy-4'>
+            <div class='col-lg-4 col-md-6' data-aos='fade-up' data-aos-delay='100'>
+              <div class='service-item position-relative'>
+                <div class='icon'>
+                  <i class='bi bi-activity'/>
                 </div>
-                <a href="#" class="stretched-link">
+                <a class='stretched-link' href='#'>
                   <h3>Company Profile</h3>
                 </a>
                 <p>
@@ -221,16 +189,12 @@
             </div>
             <!-- End Service Item -->
 
-            <div
-              class="col-lg-4 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="200"
-            >
-              <div class="service-item position-relative">
-                <div class="icon">
-                  <i class="bi bi-broadcast"></i>
+            <div class='col-lg-4 col-md-6' data-aos='fade-up' data-aos-delay='200'>
+              <div class='service-item position-relative'>
+                <div class='icon'>
+                  <i class='bi bi-broadcast'/>
                 </div>
-                <a href="#" class="stretched-link">
+                <a class='stretched-link' href='#'>
                   <h3>Custom Software Development</h3>
                 </a>
                 <p>
@@ -241,16 +205,12 @@
             </div>
             <!-- End Service Item -->
 
-            <div
-              class="col-lg-4 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="300"
-            >
-              <div class="service-item position-relative">
-                <div class="icon">
-                  <i class="bi bi-easel"></i>
+            <div class='col-lg-4 col-md-6' data-aos='fade-up' data-aos-delay='300'>
+              <div class='service-item position-relative'>
+                <div class='icon'>
+                  <i class='bi bi-easel'/>
                 </div>
-                <a href="#" class="stretched-link">
+                <a class='stretched-link' href='#'>
                   <h3>Rest API Service</h3>
                 </a>
                 <p>
@@ -261,69 +221,58 @@
             </div>
             <!-- End Service Item -->
 
-            <div
-              class="col-lg-4 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="400"
-            >
-              <div class="service-item position-relative">
-                <div class="icon">
-                  <i class="bi bi-bounding-box-circles"></i>
+            <div class='col-lg-4 col-md-6' data-aos='fade-up' data-aos-delay='400'>
+              <div class='service-item position-relative'>
+                <div class='icon'>
+                  <i class='bi bi-bounding-box-circles'/>
                 </div>
-                <a href="#" class="stretched-link">
-                  <h3>SEO & Digital Marketing</h3>
+                <a class='stretched-link' href='#'>
+                  <h3>SEO &amp; Digital Marketing</h3>
                 </a>
                 <p>
-                  Capai kesuksesan online dengan layanan SEO & Digital Marketing
-                  kami—meningkatkan peringkat, memperluas jangkauan, dan
+                  Capai kesuksesan online dengan layanan SEO &amp; Digital Marketing
+                  kami&#8212;meningkatkan peringkat, memperluas jangkauan, dan
                   mengonversi pengunjung menjadi pelanggan loyal.
                 </p>
-                <a href="#" class="stretched-link"></a>
+                <a class='stretched-link' href='#'/>
               </div>
             </div>
             <!-- End Service Item -->
 
-            <div
-              class="col-lg-4 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="500"
-            >
-              <div class="service-item position-relative">
-                <div class="icon">
-                  <i class="bi bi-calendar4-week"></i>
+            <div class='col-lg-4 col-md-6' data-aos='fade-up' data-aos-delay='500'>
+              <div class='service-item position-relative'>
+                <div class='icon'>
+                  <i class='bi bi-calendar4-week'/>
                 </div>
-                <a href="#" class="stretched-link">
+                <a class='stretched-link' href='#'>
                   <h3>Content Writer</h3>
                 </a>
                 <p>
                   Transformasikan ide menjadi kata-kata yang memikat dengan
-                  layanan content writing profesional kami—menyusun konten yang
+                  layanan content writing profesional kami&#8212;menyusun konten yang
                   menarik, informatif, dan sesuai dengan kebutuhan audiens Anda.
                 </p>
-                <a href="#" class="stretched-link"></a>
+                <a class='stretched-link' href='#'/>
               </div>
             </div>
             <!-- End Service Item -->
 
-            <div
-              class="col-lg-4 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="600"
-            >
-              <div class="service-item position-relative">
-                <div class="icon">
-                  <i class="bi bi-chat-square-text"></i>
+            <div class='col-lg-4 col-md-6' data-aos='fade-up' data-aos-delay='600'>
+              <div class='service-item position-relative'>
+                <div class='icon'>
+                  <i class='bi bi-chat-square-text'/>
                 </div>
-                <a href="#" class="stretched-link">
+                <a class='stretched-link' href='#'>
                   <h3>Software Maintenace</h3>
                 </a>
                 <p>
                   Optimalkan kinerja bisnis Anda dengan solusi software
-                  maintenance kami—perawatan rutin, pembaruan sistem, dan
+                  maintenance kami&#8212;perawatan rutin, pembaruan sistem, dan
                   perbaikan cepat untuk memastikan aplikasi selalu siap
                   mendukung kesuksesan Anda
                 </p>
-                <a href="#" class="stretched-link"></a>
+                
+                <a class='stretched-link' href='#'/>
               </div>
             </div>
             <!-- End Service Item -->
@@ -333,15 +282,12 @@
       <!-- /Services Section -->
 
       <!-- Call To Action Section -->
-      <section
-        id="call-to-action"
-        class="call-to-action section dark-background"
-      >
-        <img src="assets/img/cta-bg.jpg" alt="" />
+      <section class='call-to-action section dark-background' id='call-to-action'>
+        <img alt='' src='assets/img/cta-bg.jpg'/>
 
-        <div class="container">
-          <div class="row" data-aos="zoom-in" data-aos-delay="100">
-            <div class="col-xl-9 text-center text-xl-start">
+        <div class='container'>
+          <div class='row' data-aos='zoom-in' data-aos-delay='100'>
+            <div class='col-xl-9 text-center text-xl-start'>
               <h3>Transformasi Bisnis Anda Dimulai Sekarang!</h3>
               <p>
                 Konsultasikan kebutuhan Anda dengan tim ahli kami dan dapatkan
@@ -350,37 +296,25 @@
                 transformasi digital Anda!
               </p>
 
-              <a
-                class="cta-btn align-middle"
-                href="https://api.whatsapp.com/send?phone=6285165565089&text=Halo%20Idhodev%2C%20saya%20tertarik%20dengan%20layanan%20digital%20dan%20pengembangan%20software%20yang%20Anda%20tawarkan.%20Bisakah%20kita%20membahas%20lebih%20lanjut%3F"
-                ><span class="bi-whatsapp"></span> Konsultasikan sekarang</a
-              >
+             <a class='cta-btn' href='https://api.whatsapp.com/send?phone=6285165565089&amp;text=Halo%20Idhodev%2C%20saya%20tertarik%20dengan%20layanan%20digital%20dan%20pengembangan%20software%20yang%20Anda%20tawarkan.%20Bisakah%20kita%20membahas%20lebih%20lanjut%3F'><span class='bi-whatsapp'/> Konsultasikan sekarang</a>
             </div>
-            <div class="col-xl-3 cta-btn-container text-center"></div>
+            <div class='col-xl-3 cta-btn-container text-center'/>
           </div>
         </div>
       </section>
       <!-- /Call To Action Section -->
 
       <!-- Features Section -->
-      <section id="features" class="features section">
-        <div class="container">
-          <div class="row gy-4">
-            <div class="features-image col-lg-2 order-lg-2"></div>
-            <div
-              class="features-image col-lg-6 order-lg-2"
-              data-aos="fade-up"
-              data-aos-delay="100"
-            >
-              <img src="assets/img/features-bg.jpg" alt="" />
+      <section class='features section' id='features'>
+        <div class='container'>
+          <div class='row gy-4'>
+            <div class='features-image col-lg-2 order-lg-2'/>
+            <div class='features-image col-lg-6 order-lg-2' data-aos='fade-up' data-aos-delay='100'>
+              <img alt='' src='assets/img/features-bg.jpg'/>
             </div>
 
-            <div class="col-lg-4 order-lg-1">
-              <div
-                class="features-item d-flex ps-0 ps-lg-3 pt-4 pt-lg-0"
-                data-aos="fade-up"
-                data-aos-delay="200"
-              >
+            <div class='col-lg-4 order-lg-1'>
+              <div class='features-item d-flex ps-0 ps-lg-3 pt-4 pt-lg-0' data-aos='fade-up' data-aos-delay='200'>
                 <div>
                   <h4>Visi</h4>
                   <p>
@@ -393,11 +327,7 @@
               </div>
               <!-- End Features Item-->
 
-              <div
-                class="features-item d-flex mt-5 ps-0 ps-lg-3"
-                data-aos="fade-up"
-                data-aos-delay="500"
-              >
+              <div class='features-item d-flex mt-5 ps-0 ps-lg-3' data-aos='fade-up' data-aos-delay='500'>
                 <div>
                   <h4>Misi</h4>
 
@@ -436,15 +366,11 @@
       <!-- /Clients Section -->
 
       <!-- Stats Section -->
-      <section id="stats" class="stats section dark-background">
-        <img src="assets/img/stats-bg.jpg" alt="" data-aos="fade-in" />
+      <section class='stats section dark-background' id='stats'>
+        <img alt='' data-aos='fade-in' src='assets/img/stats-bg.jpg'/>
 
-        <div
-          class="container position-relative"
-          data-aos="fade-up"
-          data-aos-delay="100"
-        >
-          <div class="subheading">
+        <div class='container position-relative' data-aos='fade-up' data-aos-delay='100'>
+          <div class='subheading'>
             <h3>What we have achieved so far</h3>
             <p>
               Iusto et labore modi qui sapiente xpedita tempora et aut non ipsum
@@ -452,54 +378,34 @@
             </p>
           </div>
 
-          <div class="row gy-4">
-            <div class="col-lg-3 col-md-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span
-                  data-purecounter-start="0"
-                  data-purecounter-end="25"
-                  data-purecounter-duration="1"
-                  class="purecounter"
-                ></span>
+          <div class='row gy-4'>
+            <div class='col-lg-3 col-md-6'>
+              <div class='stats-item text-center w-100 h-100'>
+                <span class='purecounter' data-purecounter-duration='1' data-purecounter-end='25' data-purecounter-start='0'/>
                 <p>Clients</p>
               </div>
             </div>
             <!-- End Stats Item -->
 
-            <div class="col-lg-3 col-md-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span
-                  data-purecounter-start="0"
-                  data-purecounter-end="37"
-                  data-purecounter-duration="1"
-                  class="purecounter"
-                ></span>
+            <div class='col-lg-3 col-md-6'>
+              <div class='stats-item text-center w-100 h-100'>
+                <span class='purecounter' data-purecounter-duration='1' data-purecounter-end='37' data-purecounter-start='0'/>
                 <p>Projects</p>
               </div>
             </div>
             <!-- End Stats Item -->
 
-            <div class="col-lg-3 col-md-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span
-                  data-purecounter-start="0"
-                  data-purecounter-end="534"
-                  data-purecounter-duration="1"
-                  class="purecounter"
-                ></span>
+            <div class='col-lg-3 col-md-6'>
+              <div class='stats-item text-center w-100 h-100'>
+                <span class='purecounter' data-purecounter-duration='1' data-purecounter-end='534' data-purecounter-start='0'/>
                 <p>Hours Of Support</p>
               </div>
             </div>
             <!-- End Stats Item -->
 
-            <div class="col-lg-3 col-md-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span
-                  data-purecounter-start="0"
-                  data-purecounter-end="6"
-                  data-purecounter-duration="1"
-                  class="purecounter"
-                ></span>
+            <div class='col-lg-3 col-md-6'>
+              <div class='stats-item text-center w-100 h-100'>
+                <span class='purecounter' data-purecounter-duration='1' data-purecounter-end='6' data-purecounter-start='0'/>
                 <p>Workers</p>
               </div>
             </div>
@@ -805,17 +711,11 @@
       <!-- /Pricing Section -->
 
       <!-- Faq Section -->
-      <section id="faq" class="faq section">
-        <div class="container-fluid">
-          <div class="row gy-4">
-            <div
-              class="col-lg-7 d-flex flex-column justify-content-center order-2 order-lg-1"
-            >
-              <div
-                class="content px-xl-5"
-                data-aos="fade-up"
-                data-aos-delay="100"
-              >
+      <section class='faq section' id='faq'>
+        <div class='container-fluid'>
+          <div class='row gy-4'>
+            <div class='col-lg-7 d-flex flex-column justify-content-center order-2 order-lg-1'>
+              <div class='content px-xl-5' data-aos='fade-up' data-aos-delay='100'>
                 <h3>
                   <span>Frequently Asked </span><strong>Questions</strong>
                 </h3>
@@ -825,15 +725,11 @@
                 </p>
               </div>
 
-              <div
-                class="faq-container px-xl-5"
-                data-aos="fade-up"
-                data-aos-delay="200"
-              >
-                <div class="faq-item faq-active">
-                  <i class="faq-icon bi bi-question-circle"></i>
+              <div class='faq-container px-xl-5' data-aos='fade-up' data-aos-delay='200'>
+                <div class='faq-item faq-active'>
+                  <i class='faq-icon bi bi-question-circle'/>
                   <h3>Berapa biaya pembuatan website?</h3>
-                  <div class="faq-content">
+                  <div class='faq-content'>
                     <p>
                       Biaya pembuatan website tergantung pada fitur dan
                       kompleksitas yang dibutuhkan. Kami akan memberikan
@@ -841,33 +737,33 @@
                       memberikan hasil maksimal dengan harga yang sesuai.
                     </p>
                   </div>
-                  <i class="faq-toggle bi bi-chevron-right"></i>
+                  <i class='faq-toggle bi bi-chevron-right'/>
                 </div>
                 <!-- End Faq item-->
 
-                <div class="faq-item">
-                  <i class="faq-icon bi bi-question-circle"></i>
+                <div class='faq-item'>
+                  <i class='faq-icon bi bi-question-circle'/>
                   <h3>
                     Bagaimana jika saya membutuhkan bantuan setelah website
                     diluncurkan?
                   </h3>
-                  <div class="faq-content">
+                  <div class='faq-content'>
                     <p>
                       Kami selalu siap membantu! Tim kami akan tetap mendukung
                       Anda setelah website diluncurkan, memberikan bantuan
                       teknis, pembaruan, atau penambahan fitur sesuai kebutuhan.
                     </p>
                   </div>
-                  <i class="faq-toggle bi bi-chevron-right"></i>
+                  <i class='faq-toggle bi bi-chevron-right'/>
                 </div>
                 <!-- End Faq item-->
 
-                <div class="faq-item">
-                  <i class="faq-icon bi bi-question-circle"></i>
+                <div class='faq-item'>
+                  <i class='faq-icon bi bi-question-circle'/>
                   <h3>
                     Berapa lama waktu yang dibutuhkan untuk membangun website?
                   </h3>
-                  <div class="faq-content">
+                  <div class='faq-content'>
                     <p>
                       Waktu pembangunan website bervariasi tergantung pada
                       kompleksitas proyek. Biasanya, kami membutuhkan waktu
@@ -875,20 +771,14 @@
                       sempurna untuk Anda.
                     </p>
                   </div>
-                  <i class="faq-toggle bi bi-chevron-right"></i>
+                  <i class='faq-toggle bi bi-chevron-right'/>
                 </div>
                 <!-- End Faq item-->
               </div>
             </div>
 
-            <div class="col-lg-5 order-1 order-lg-2">
-              <img
-                src="assets/img/faq.jpg"
-                class="img-fluid"
-                alt=""
-                data-aos="zoom-in"
-                data-aos-delay="100"
-              />
+            <div class='col-lg-5 order-1 order-lg-2'>
+              <img alt='' class='img-fluid' data-aos='zoom-in' data-aos-delay='100' src='assets/img/faq.jpg'/>
             </div>
           </div>
         </div>
@@ -896,9 +786,9 @@
       <!-- /Faq Section -->
 
       <!-- Recent Posts Section -->
-      <section id="recent-posts" class="recent-posts section">
+      <section class='recent-posts section' id='recent-posts'>
         <!-- Section Title -->
-        <div class="container section-title" data-aos="fade-up">
+        <div class='container section-title' data-aos='fade-up'>
           <h2>Recent Blog Posts</h2>
           <!-- <p>
             Necessitatibus eius consequatur ex aliquid fuga eum quidem sint
@@ -907,40 +797,26 @@
         </div>
         <!-- End Section Title -->
 
-        <div class="container">
-          <div class="row gy-4">
-            <div
-              class="col-xl-4 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="100"
-            >
+        <div class='container'>
+          <div class='row gy-4'>
+            <div class='col-xl-4 col-md-6' data-aos='fade-up' data-aos-delay='100'>
               <article>
-                <div class="post-img">
-                  <img
-                    src="assets/img/blog/blog-1.jpg"
-                    alt=""
-                    class="img-fluid"
-                  />
+                <div class='post-img'>
+                  <img alt='' class='img-fluid' src='assets/img/blog/blog-1.jpg'/>
                 </div>
 
-                <p class="post-category">Politics</p>
+                <p class='post-category'>Politics</p>
 
-                <h2 class="title">
-                  <a href="blog-details.html"
-                    >Dolorum optio tempore voluptas dignissimos</a
-                  >
+                <h2 class='title'>
+                  <a href='blog-details.html'>Dolorum optio tempore voluptas dignissimos</a>
                 </h2>
 
-                <div class="d-flex align-items-center">
-                  <img
-                    src="assets/img/blog/blog-author.jpg"
-                    alt=""
-                    class="img-fluid post-author-img flex-shrink-0"
-                  />
-                  <div class="post-meta">
-                    <p class="post-author">Maria Doe</p>
-                    <p class="post-date">
-                      <time datetime="2022-01-01">Jan 1, 2022</time>
+                <div class='d-flex align-items-center'>
+                  <img alt='' class='img-fluid post-author-img flex-shrink-0' src='assets/img/blog/blog-author.jpg'/>
+                  <div class='post-meta'>
+                    <p class='post-author'>Maria Doe</p>
+                    <p class='post-date'>
+                      <time datetime='2022-01-01'>Jan 1, 2022</time>
                     </p>
                   </div>
                 </div>
@@ -948,38 +824,24 @@
             </div>
             <!-- End post list item -->
 
-            <div
-              class="col-xl-4 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="200"
-            >
+            <div class='col-xl-4 col-md-6' data-aos='fade-up' data-aos-delay='200'>
               <article>
-                <div class="post-img">
-                  <img
-                    src="assets/img/blog/blog-2.jpg"
-                    alt=""
-                    class="img-fluid"
-                  />
+                <div class='post-img'>
+                  <img alt='' class='img-fluid' src='assets/img/blog/blog-2.jpg'/>
                 </div>
 
-                <p class="post-category">Sports</p>
+                <p class='post-category'>Sports</p>
 
-                <h2 class="title">
-                  <a href="blog-details.html"
-                    >Nisi magni odit consequatur autem nulla dolorem</a
-                  >
+                <h2 class='title'>
+                  <a href='blog-details.html'>Nisi magni odit consequatur autem nulla dolorem</a>
                 </h2>
 
-                <div class="d-flex align-items-center">
-                  <img
-                    src="assets/img/blog/blog-author-2.jpg"
-                    alt=""
-                    class="img-fluid post-author-img flex-shrink-0"
-                  />
-                  <div class="post-meta">
-                    <p class="post-author">Allisa Mayer</p>
-                    <p class="post-date">
-                      <time datetime="2022-01-01">Jun 5, 2022</time>
+                <div class='d-flex align-items-center'>
+                  <img alt='' class='img-fluid post-author-img flex-shrink-0' src='assets/img/blog/blog-author-2.jpg'/>
+                  <div class='post-meta'>
+                    <p class='post-author'>Allisa Mayer</p>
+                    <p class='post-date'>
+                      <time datetime='2022-01-01'>Jun 5, 2022</time>
                     </p>
                   </div>
                 </div>
@@ -987,39 +849,25 @@
             </div>
             <!-- End post list item -->
 
-            <div
-              class="col-xl-4 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="300"
-            >
+            <div class='col-xl-4 col-md-6' data-aos='fade-up' data-aos-delay='300'>
               <article>
-                <div class="post-img">
-                  <img
-                    src="assets/img/blog/blog-3.jpg"
-                    alt=""
-                    class="img-fluid"
-                  />
+                <div class='post-img'>
+                  <img alt='' class='img-fluid' src='assets/img/blog/blog-3.jpg'/>
                 </div>
 
-                <p class="post-category">Entertainment</p>
+                <p class='post-category'>Entertainment</p>
 
-                <h2 class="title">
-                  <a href="blog-details.html"
-                    >Possimus soluta ut id suscipit ea ut in quo quia et
-                    soluta</a
-                  >
+                <h2 class='title'>
+                  <a href='blog-details.html'>Possimus soluta ut id suscipit ea ut in quo quia et
+                    soluta</a>
                 </h2>
 
-                <div class="d-flex align-items-center">
-                  <img
-                    src="assets/img/blog/blog-author-3.jpg"
-                    alt=""
-                    class="img-fluid post-author-img flex-shrink-0"
-                  />
-                  <div class="post-meta">
-                    <p class="post-author">Mark Dower</p>
-                    <p class="post-date">
-                      <time datetime="2022-01-01">Jun 22, 2022</time>
+                <div class='d-flex align-items-center'>
+                  <img alt='' class='img-fluid post-author-img flex-shrink-0' src='assets/img/blog/blog-author-3.jpg'/>
+                  <div class='post-meta'>
+                    <p class='post-author'>Mark Dower</p>
+                    <p class='post-date'>
+                      <time datetime='2022-01-01'>Jun 22, 2022</time>
                     </p>
                   </div>
                 </div>
@@ -1033,22 +881,18 @@
       <!-- /Recent Posts Section -->
 
       <!-- Contact Section -->
-      <section id="contact" class="contact section light-background">
+      <section class='contact section light-background' id='contact'>
         <!-- Section Title -->
-        <div class="container section-title" data-aos="fade-up">
+        <div class='container section-title' data-aos='fade-up'>
           <h2>Contact</h2>
         </div>
         <!-- End Section Title -->
 
-        <div class="container text" data-aos="fade" data-aos-delay="100">
-          <div class="row gy-4">
-            <div class="col-lg-6">
-              <div
-                class="info-item d-flex"
-                data-aos="fade-up"
-                data-aos-delay="200"
-              >
-                <i class="bi bi-geo-alt flex-shrink-0"></i>
+        <div class='container text' data-aos='fade' data-aos-delay='100'>
+          <div class='row gy-4'>
+            <div class='col-lg-6'>
+              <div class='info-item d-flex' data-aos='fade-up' data-aos-delay='200'>
+                <i class='bi bi-geo-alt flex-shrink-0'/>
                 <div>
                   <h3>Address</h3>
                   <p>Kel.Jaticempaka, Pondok gede, Bekasi</p>
@@ -1056,12 +900,8 @@
               </div>
               <!-- End Info Item -->
 
-              <div
-                class="info-item d-flex"
-                data-aos="fade-up"
-                data-aos-delay="300"
-              >
-                <i class="bi bi-telephone flex-shrink-0"></i>
+              <div class='info-item d-flex' data-aos='fade-up' data-aos-delay='300'>
+                <i class='bi bi-telephone flex-shrink-0'/>
                 <div>
                   <h3>Call Us</h3>
                   <p>+62-851-6556-5089</p>
@@ -1070,12 +910,8 @@
 
               <!-- End Info Item -->
 
-              <div
-                class="info-item d-flex"
-                data-aos="fade-up"
-                data-aos-delay="400"
-              >
-                <i class="bi bi-envelope flex-shrink-0"></i>
+              <div class='info-item d-flex' data-aos='fade-up' data-aos-delay='400'>
+                <i class='bi bi-envelope flex-shrink-0'/>
                 <div>
                   <h3>Email Us</h3>
                   <p>hafidhbm@gmail.com</p>
@@ -1089,58 +925,53 @@
       </section>
     </main>
 
-    <footer id="footer" class="footer dark-background">
-      <div class="container">
-        <h3 class="sitename">Idhodev.</h3>
-        <p>"Empowering businesses with smart digital solutions."</p>
-        <div class="social-links d-flex justify-content-center">
-          <a href=""><i class="bi bi-twitter-x"></i></a>
-          <a href=""><i class="bi bi-facebook"></i></a>
-          <a href=""><i class="bi bi-instagram"></i></a>
-          <a href=""><i class="bi bi-skype"></i></a>
-          <a href=""><i class="bi bi-linkedin"></i></a>
+    <footer class='footer dark-background' id='footer'>
+      <div class='container'>
+        <h3 class='sitename'>Idhodev.</h3>
+        <p>&quot;Empowering businesses with smart digital solutions.&quot;</p>
+        <div class='social-links d-flex justify-content-center'>
+          <a href=''><i class='bi bi-twitter-x'/></a>
+          <a href=''><i class='bi bi-facebook'/></a>
+          <a href=''><i class='bi bi-instagram'/></a>
+          <a href=''><i class='bi bi-skype'/></a>
+          <a href=''><i class='bi bi-linkedin'/></a>
         </div>
-        <div class="container">
-          <div class="copyright">
+        <div class='container'>
+          <div class='copyright'>
             <span>Copyright</span>
-            <strong class="px-1 sitename">Idhodev.</strong>
+            <strong class='px-1 sitename'>Idhodev.</strong>
             <span>All Rights Reserved</span>
           </div>
-          <div class="credits">
+          <div class='credits'>
             <!-- All the links in the footer should remain intact. -->
             <!-- You can delete the links only if you've purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
             Designed by
-            <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed
-            by <a href=“https://themewagon.com>ThemeWagon
+            <a href='https://bootstrapmade.com/'>BootstrapMade</a> Distributed
+            by <a href='https://themewagon.com'>ThemeWagon</a>
           </div>
         </div>
       </div>
     </footer>
 
     <!-- Scroll Top -->
-    <a
-      href="#"
-      id="scroll-top"
-      class="scroll-top d-flex align-items-center justify-content-center"
-      ><i class="bi bi-arrow-up-short"></i
-    ></a>
+    <a class='scroll-top d-flex align-items-center justify-content-center' href='#' id='scroll-top'><i class='bi bi-arrow-up-short'/></a>
 
     <!-- Preloader -->
-    <div id="preloader"></div>
+    <div id='preloader'/>
 
     <!-- Vendor JS Files -->
-    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendor/php-email-form/validate.js"></script>
-    <script src="assets/vendor/aos/aos.js"></script>
-    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-    <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-    <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
-    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src='https://idho666.github.io/blog-assets/assets/vendor/bootstrap/js/bootstrap.bundle.min.js'/>
+    <script src='https://idho666.github.io/blog-assets/assets/vendor/php-email-form/validate.js'/>
+    <script src='https://idho666.github.io/blog-assets/assets/vendor/aos/aos.js'/>
+    <script src='https://idho666.github.io/blog-assets/assets/vendor/glightbox/js/glightbox.min.js'/>
+    <script src='https://idho666.github.io/blog-assets/assets/vendor/purecounter/purecounter_vanilla.js'/>
+    <script src='https://idho666.github.io/blog-assets/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js'/>
+    <script src='https://idho666.github.io/blog-assets/assets/vendor/isotope-layout/isotope.pkgd.min.js'/>
+    <script src='https://idho666.github.io/blog-assets/assets/vendor/swiper/swiper-bundle.min.js'/>
 
     <!-- Main JS File -->
-    <script src="assets/js/main.js"></script>
+    <script src='https://idho666.github.io/blog-assets/assets/js/main.js'/>
   </body>
 </html>
