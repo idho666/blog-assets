@@ -4,13 +4,14 @@
 <head>
     <meta charset='utf-8'/>
     <meta content='width=device-width, initial-scale=1.0' name='viewport'/>
-    <title>Idhodev - Solusi Perangkat Lunak dan Layanan Digital Inovatif untuk Bisnis Anda</title>
+  <title>Idhodev - jasa pembuatan website</title>
+<meta content='Idhodev adalah penyedia jasa pembuatan website dan layanan digital terbaik untuk mendukung pertumbuhan bisnis Anda dengan teknologi inovatif.' name='description'/>
+    <meta expr:content='data:blog.title' name='title'/>
     <meta content='Idhodev - Solusi Perangkat Lunak dan Layanan Digital Inovatif' property='og:title'/>
-    <meta content='Idhodev menyediakan solusi perangkat lunak dan layanan digital terbaik untuk membantu bisnis Anda berkembang melalui teknologi cerdas.' property='og:description'/>
     <meta content='URL_to_image.jpg' property='og:image'/>
     <meta content='https://idhodev.com' property='og:url'/>
     <meta content='website' property='og:type'/>
-    <meta content='solusi perangkat lunak, layanan digital, pengembangan website, pengembangan aplikasi, solusi bisnis, teknologi inovatif, SEO, pemasaran digital, digital transformation, pembuatan website, pengembangan aplikasi kustom, Idhodev, layanan IT, teknologi cerdas, konsultasi digital, layanan e-commerce, desain website responsif' name='keywords'/>
+<meta content='idhodev,solusi perangkat lunak, layanan digital, pengembangan website, pengembangan aplikasi, solusi bisnis, teknologi inovatif, SEO, pemasaran digital, digital transformation, pembuatan website, pengembangan aplikasi kustom, Idhodev, layanan IT, teknologi cerdas, konsultasi digital, layanan e-commerce, desain website responsif, jasa pengembangan website, jasa website, jasa website medan, jasa website bandung, jasa website surabaya, jasa website jakarta, jasa website murah, jasa website semarang, jasa website jogja, jasa website profesional, jasa website malang, jasa website top up game, jasa website company profile, jasa website bekasi, jasa website bogor, jasa website wordpress, jasa pembuatan website di medan, jasa website tegal, website medan, jasa website desain, jasa buat website medan, jasa website di medan, jasa bikin website medan, jasa buat website di medan, jasa website banyuwangi' name='keywords'/>
    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no' name='viewport'/>
 
 
@@ -56,7 +57,7 @@
 <body class='index-page'>
     <header class='header d-flex align-items-center fixed-top' id='header'>
         <div class='container position-relative d-flex align-items-center justify-content-between'>
-            <a class='logo d-flex align-items-center me-auto me-xl-0' href='index.html'>
+            <a class='logo d-flex align-items-center me-auto me-xl-0' href='https://www.idhodev.com/'>
                 <h1 class='sitename'>Idhodev.</h1>
             </a>
 
@@ -65,7 +66,7 @@
                     <li><a class='active' href='#hero'>Home</a></li>
                     <li><a href='#about'>About</a></li>
                     <li><a href='#services'>Services</a></li>
-                    <li><a href='blog.html'>Blog</a></li>
+                    <li><a href='#'>Blog</a></li>
                     <li><a href='#contact'>Contact</a></li>
                 </ul>
                 <i class='mobile-nav-toggle d-xl-none bi bi-list'/>
@@ -81,7 +82,7 @@
             <div class='container d-flex flex-column align-items-center text-center'>
                 <h2 data-aos='fade-up' data-aos-delay='100'>Welcome to Idhodev.</h2>
                 <p data-aos='fade-up' data-aos-delay='200'>
-                    Pengembang perangkat lunak inovatif dengan tim ahli yang siap memberikan solusi terbaik untuk bisnis Anda.
+                    Pengembang Web Software dengan tim ahli yang siap memberikan solusi terbaik untuk bisnis Anda.
                 </p>
                 <div data-aos='fade-up' data-aos-delay='300'>
                     <a class='glightbox pulsating-play-btn' href='https://www.youtube.com/watch?v=Y7f98aduVJ8'/>
@@ -100,7 +101,7 @@
                 <div class='row gy-4'>
                     <div class='col-lg-6 content text-justify' data-aos='fade-up' data-aos-delay='100'>
                         <p>
-                           Kami ahli dalam transformasi digital dan pengembangan perangkat lunak, memberikan solusi inovatif untuk mendorong pertumbuhan bisnis di era digital. Dengan teknologi mutakhir dan strategi kreatif, kami membantu perusahaan meraih kesuksesan dan membangun koneksi yang lebih kuat.
+                           Kami ahli dalam jasa pembuatan website, transformasi digital, dan pengembangan perangkat lunak, menawarkan solusi inovatif untuk mendorong pertumbuhan bisnis di era digital. Dengan teknologi terbaru dan strategi kreatif, kami membantu perusahaan mencapai kesuksesan dan membangun koneksi yang lebih kuat.
                         </p>
                         <ul>
                             <li>
@@ -420,7 +421,7 @@
                             <p class='post-category'>Politics</p>
 
                             <h2 class='title'>
-                                <a href='blog-details.html'>Dolorum optio tempore voluptas dignissimos</a>
+                                <a href='#'>Dolorum optio tempore voluptas dignissimos</a>
                             </h2>
 
                             <div class='d-flex align-items-center'>
@@ -444,7 +445,7 @@
                             <p class='post-category'>Sports</p>
 
                             <h2 class='title'>
-                                <a href='blog-details.html'>Nisi magni odit consequatur autem nulla dolorem</a>
+                                <a href='#'>Nisi magni odit consequatur autem nulla dolorem</a>
                             </h2>
 
                             <div class='d-flex align-items-center'>
@@ -468,7 +469,7 @@
                             <p class='post-category'>Entertainment</p>
 
                             <h2 class='title'>
-                                <a href='blog-details.html'>Possimus soluta ut id suscipit ea ut in quo quia et soluta</a>
+                                <a href='#'>Possimus soluta ut id suscipit ea ut in quo quia et soluta</a>
                             </h2>
 
                             <div class='d-flex align-items-center'>
